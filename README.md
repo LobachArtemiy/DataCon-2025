@@ -83,6 +83,8 @@ https://github.com/violet-sto/MolHF/tree/master
 
      * Фильтрация ZINC250k снижает риск генерации токсичных соединений
   
+
+  
 <img width="1280" height="258" alt="image" src="https://github.com/user-attachments/assets/01fdd883-2c16-4e08-bc10-412fcdd751d6" />
 
 Рисунок 3. Пайплан обучения
