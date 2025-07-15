@@ -49,6 +49,9 @@
 
 Как основная модель для генерации молекул была выбрана MolHF.
 
+https://github.com/violet-sto/MolHF/tree/master
+[MolHF: A Hierarchical Normalizing Flow for Molecular Graph Generation](https://arxiv.org/abs/2305.08457) (IJCAI 2023)
+
 Критерии отбора модели MolHF (плюсы):
 
 * Высокое качество генерации
@@ -79,6 +82,13 @@
      * Результат: Хорошее качество молекул, баланс между разнообразием и соответствием критериям
 
      * Фильтрация ZINC250k снижает риск генерации токсичных соединений
+  
+<img width="1280" height="258" alt="image" src="https://github.com/user-attachments/assets/01fdd883-2c16-4e08-bc10-412fcdd751d6" />
+
+Рисунок 3. Пайплан обучения
+
+
+Все конфигурации запусков и метрики можно посмотреть в директории /data/MolHF_results/
 
 # 4. Фильтрация кандидатов
 
