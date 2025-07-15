@@ -1,7 +1,8 @@
 # DataCon-2025
 В этом репозитории представлен проект по генеративному дизайну молекул для лечения болезни Альцгеймера.
 
-<img width="1683" height="240" alt="image" src="https://github.com/user-attachments/assets/fd8673d3-162d-4952-ad2a-adaa31130102" />
+<img width="1677" height="227" alt="image" src="https://github.com/user-attachments/assets/9d16f1b3-5cff-49d2-9a1a-84b5b79cee5d" />
+
 
 
 # 1. Сбор и обработка данных
