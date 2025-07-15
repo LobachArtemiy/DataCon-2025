@@ -1,0 +1,7 @@
+smiles,is_valid,qed,sa_score,lipinski_violations,toxicophore,bbb_permeability,BBB_permeable,pValue
+CCC1CC2CCC(C)N2C(C)CN1,True,0.6898517191546624,2.39,0,False,"{'MW': 196.338, 'LogP': 1.9997, 'HBD': 1, 'HBA': 2, 'TPSA': 15.27, 'BBB_permeable': True, 'Rule_of_Five': True}",True,6.750423057272173
+CCCC1C2=C3CCC14C3NC4(CN)C(N)C=N2,True,0.6797055934198453,3.01,0,False,"{'MW': 246.358, 'LogP': 0.5316000000000012, 'HBD': 3, 'HBA': 4, 'TPSA': 76.42999999999999, 'BBB_permeable': True, 'Rule_of_Five': True}",True,6.653001225125031
+CC1CC(CO)C2(C)C3NN4C13C1CC(C)C142,True,0.7100644137113615,4.97,0,False,"{'MW': 234.343, 'LogP': 0.9905999999999999, 'HBD': 2, 'HBA': 3, 'TPSA': 35.5, 'BBB_permeable': True, 'Rule_of_Five': True}",True,6.60495573184067
+CNC1C2=C3N1C1(N)CN(C)C2(CN)CC(C)(C)S31C,True,0.6663117081483705,2.53,0,False,"{'MW': 297.472, 'LogP': -0.055199999999998584, 'HBD': 3, 'HBA': 5, 'TPSA': 70.55, 'BBB_permeable': True, 'Rule_of_Five': True}",True,6.59258608349272
+CNC1C(C)CC2C3CCC2C1C3,True,0.6509169583417724,3.37,0,False,"{'MW': 179.307, 'LogP': 2.2765000000000004, 'HBD': 1, 'HBA': 1, 'TPSA': 12.03, 'BBB_permeable': True, 'Rule_of_Five': True}",True,6.530497824627748
+CCC1N2CNN(C(OC)C2)C2CC(C)CN12,True,0.7574966394452228,3.48,0,False,"{'MW': 240.35099999999997, 'LogP': 0.45620000000000105, 'HBD': 1, 'HBA': 5, 'TPSA': 30.979999999999997, 'BBB_permeable': True, 'Rule_of_Five': True}",True,6.51832058050833

@@ -1,0 +1,1 @@
+CC(N)C(N)(CC(O)(C(C=CCN)C1(N)NNC1N)N(C)N)N(C)NN, 26

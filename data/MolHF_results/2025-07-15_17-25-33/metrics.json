@@ -1,0 +1,30 @@
+{
+    "total_loss": [
+        [
+            1.0025283328625334,
+            0.454618963624249,
+            0.5479093699896035
+        ]
+    ],
+    "all_valid_rate": [
+        26.3
+    ],
+    "all_valid_without_check_rate": [
+        26.3
+    ],
+    "all_unique_rate": [
+        100.0
+    ],
+    "all_novelty_rate": [
+        100.0
+    ],
+    "all_connectivity_rate": [
+        35.62
+    ],
+    "all_reconstruct_error": [
+        [
+            0.0,
+            0.0
+        ]
+    ]
+}
