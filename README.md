@@ -111,6 +111,7 @@ https://github.com/violet-sto/MolHF/tree/master
      проницаемость через ГЭБ.
 
 <img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/d9fcedc6-dffb-4439-b311-9c7513286601" />
+
  Рисунок 3. Результаты фильтрации молекул-кандидатов
 
 
