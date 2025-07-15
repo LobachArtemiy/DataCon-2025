@@ -50,6 +50,7 @@
 Как основная модель для генерации молекул была выбрана MolHF.
 
 https://github.com/violet-sto/MolHF/tree/master
+
 [MolHF: A Hierarchical Normalizing Flow for Molecular Graph Generation](https://arxiv.org/abs/2305.08457) (IJCAI 2023)
 
 Критерии отбора модели MolHF (плюсы):
